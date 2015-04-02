@@ -1,4 +1,3 @@
-Quia 书签
 现在可以访问 https://github.com/RetsamTaito/Bookmarks 下载最新文件.
 将压缩文件内 "Combined Bm.txt" 文档全文保存为 Chrome 书签即可.
 如果书签过长导致故障请使用 Independent 目录下独立的文件.
