@@ -1,4 +1,4 @@
-访问 https://github.com/RetsamTaito/Bookmarks/archive/master.zip 下载最新文件.
+访问 http://goo.gl/bFFSws 下载最新文件.
 将压缩文件内 "Combined Bm.txt" 文档全文保存为 Chrome 书签即可.
 如果书签过长导致故障请使用 Independent 目录下独立的文件.
 ________________________________________________________________
